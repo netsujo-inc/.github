@@ -1,10 +1,12 @@
 # Netsujo
 
-**Building new businesses and systems with Web3 at the core.**
+**Building trustworthy infrastructure for AI agents in the real world.**
 
-Netsujo Inc. is a Kyoto-based Web3 startup working across Web3 & AI business development, software implementation, and web sales infrastructure.
+Netsujo Inc. is a Kyoto-based Web3 startup working across AI-agent trust infrastructure, Web3 & AI business development, software implementation, and web sales infrastructure.
 
-[Website](https://netsujo.jp/en) · [Company profile](https://netsujo.jp/en/downloads/company-profile) · [Contact](https://netsujo.jp/en/contact)
+This netsujo-inc organization is the official GitHub entry point for Netsujo. Public source repositories remain at their canonical locations under [suirindo](https://github.com/suirindo) unless and until they are deliberately migrated.
+
+[Website](https://netsujo.jp/en) · [AI-agent trust infrastructure](https://netsujo.jp/en/projects/agent-os) · [Company profile](https://netsujo.jp/en/downloads/company-profile) · [Contact](https://netsujo.jp/en/contact)
 
 ## Open-source projects
 
